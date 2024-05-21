@@ -6,7 +6,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LUCY+AUTO+FILTER+BOT+!;CREATED+BY+SILICON+BOTS!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=SILICON+AUTO+FILTER+BOT+!;CREATED+BY+SILICON+BOTS!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 
@@ -72,7 +72,7 @@
 - [x] ɪᴅ ᴀɴᴅ ᴜsᴇʀ ɪɴғᴏ
 - [x] ᴏᴛʜᴇʀ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs
 
-<b>ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, ᴊᴏɪɴ ᴏᴜʀ  <a href='https://t.me/Silicon_Bot_Update>ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>.</b>
+<b>ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, ᴊᴏɪɴ ᴏᴜʀ  <a href='https://t.me/Silicon_Bot_Update'>ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>.</b>
 </details>
 
 <details>
@@ -188,7 +188,7 @@ python3 bot.py
 
 - <b>[sɪʟɪᴄᴏɴ ʙᴏᴛ](https://t.me/Silicon_Bot_Update)  ➻  [ᴏᴡɴᴇʀ](https://t.me/Silicon_Bot_Update) </b>
 - <b>[ʜᴀʀsʜᴀʟ ᴘᴜʀᴏʜɪᴛ](https://t.me/sd_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/HarshalPurohitEdits/TheMovieProviderBot/tree/main) </b>
-- <b>[Jack Sparrow](https://github.com/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/Silicon_Official) </b>
+[ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/Silicon_Official) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/Silicon_Official) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  sɪʟɪᴄᴏɴ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
@@ -200,25 +200,20 @@ python3 bot.py
  - <b>ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ʙᴜɢs ᴏʀ ᴇʀʀᴏʀs, ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</b>
 
 ### ᴄᴏɴᴛᴀᴄᴛ :
-<a href="https://t.me/veldxd Silicon_Bot_Update"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=teamnetflixe@outlook.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/sewxiy"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
+<a href="https://t.me/Silicon_Bot_Update"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
  # <b>ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Silicon_Official)</b>
+<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[sɪʟɪᴄᴏɴ ʙᴏᴛs](https://t.me/Silicon_Official)</b>
 
 - ᴄʀᴇᴅɪᴛ <b>[sɪʟɪᴄᴏɴ ʙᴏᴛ](https://t.me/Silicon_Bot_Update)  ➻  [ᴏᴡɴᴇʀ](https://t.me/Silicon_Official) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
-- ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
+- ᴛʜᴀɴᴋ ʏᴏᴜ  ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
 - ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Silicon_Bot_Update 
-- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @Silicon_Official Community @Silicon_Bot_Update </b>
+- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ (@Silicon_Official)[https://t.me/silicon_offcial] Community (@Silicon_Bot_Update)[https://t.me/Silicon_Bot_Update]</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
